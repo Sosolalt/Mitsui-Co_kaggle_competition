@@ -1,7 +1,3 @@
-Here is a professional, scannable README draft based directly on the methodology and code in your notebook. It highlights your robust feature engineering, validation strategy, and solid solo placement.
-
----
-
 # Mitsui Commodity Prediction Challenge - Kaggle
 
 ### **Competition Results**
